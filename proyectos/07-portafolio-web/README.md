@@ -37,5 +37,4 @@ A partir de ese diagnóstico se organizó una arquitectura estática multipágin
 Como sintetizaste en tu propia reflexión final del portafolio: más que juntar piezas terminadas, armar este archivo permitió reconocer intereses que se repiten entre el trabajo con telas, madera/acero, pintura y programación creativa —y decidir activamente qué proyectos dejar dentro (7), qué materiales visuales requerían un cuaderno técnico propio (fichas de indumentaria) y qué proyecto descartar por criterio estético.
 
 > **[Espacio reservado para captura final]**  
-> - Capturas del portafolio ya publicado en vivo en GitHub Pages (vista escritorio y vista teléfono).  
-> - Grabaciones cortas opcionales (`.webm`/`.mp4`) si luego incorporas video en `T03`, `T06` y `T07`.
+> - Capturas del portafolio ya publicado en vivo en GitHub Pages (vista escritorio y vista teléfono).
